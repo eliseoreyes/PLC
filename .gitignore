@@ -1,0 +1,30 @@
+# RSLogix 500 temporary and backup files
+*.RSP
+*.RSE
+*.RSL
+*.BAK
+*.TMP
+*.TMP1
+*.TMP2
+*.TMP3
+*.TMP4
+*.TMP5
+*.TMP6
+*BAK*.RSS
+
+# Log files
+*.LOG
+*.CSV
+
+# Miscellaneous generated files
+~$*
+.DS_Store
+Thumbs.db
+
+# Archives if you don't want them versioned
+# *.ACH
+
+# Ignore RSLogix 500 backup folders (if you have any)
+Backup/
+Logs/
+
